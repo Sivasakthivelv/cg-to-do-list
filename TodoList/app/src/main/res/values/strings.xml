@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="todo_title">Todo List</string>
+    <string name="btn_submit">Submit</string>
+    <string name="enter_todo_details">Enter the Todo Details</string>
+    <string name="enter_todo_name">Enter the Todo Name</string>
+    <string name="floating_content">Add todo</string>
+    <string name="completed">Completed</string>
+    <string name="mark_as_completed">Mark as Completed</string>
+    <string name="edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="all_todo">All Todos</string>
+    <string name="completed_todo">Completed Todos</string>
+    <string name="inCompleted_todo">Incompleted Todos</string>
+    <string name="no_todos">No Todos</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel\n</string>
+    <string name="delete_alert">Are you sure want to delete ?</string>
+    <string name="todo_added">Todo Added</string>
+    <string name="please_enter">Please enter the Todo</string>
+
+</resources>

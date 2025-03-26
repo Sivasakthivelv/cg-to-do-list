@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all_todo"
+        android:title="@string/all_todo"/>
+
+    <item
+        android:id="@+id/completed_todo"
+        android:title="@string/completed_todo"/>
+
+    <item
+        android:id="@+id/inCompleted_todo"
+        android:title="@string/inCompleted_todo"/>
+
+</menu>

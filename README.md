@@ -27,10 +27,10 @@ Before running the app, ensure you have the following installed on your machine:
 
 **Usage**
 
-1.Add a Task: Tap the "+ Add Task" button on the main screen to add a new task.
-2.Edit a Task: Tap the "Edit" button on any task in the list to edit its title and description.
-3.Delete a Task: Swipe left  on a task to delete it.
-4.Mark a Task as Completed: Tap on a task to toggle its completed status.
+1. Add a Task: Tap the "+ Add Task" button on the main screen to add a new task.
+2. Edit a Task: Tap the "Edit" button on any task in the list to edit its title and description.
+3. Delete a Task: Swipe left  on a task to delete it.
+4. Mark a Task as Completed: Tap on a task to toggle its completed status.
 
 **ScreenShot**
 
